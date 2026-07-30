@@ -1,0 +1,121 @@
+movie_id,title,genre,language,country,year,rating,revenue_million
+1,Movie_1,Comedy,Bangla,South Korea,2025,5.7,850
+2,Movie_2,Horror,English,India,2024,5.7,529
+3,Movie_3,Drama,English,USA,2021,7.3,256
+4,Movie_4,Action,Korean,USA,2024,6.0,238
+5,Movie_5,Romance,English,South Korea,2015,9.7,57
+6,Movie_6,Horror,Bangla,India,2021,6.1,130
+7,Movie_7,Horror,Hindi,Bangladesh,2016,8.0,664
+8,Movie_8,Drama,Hindi,USA,2023,8.6,587
+9,Movie_9,Action,Bangla,South Korea,2025,7.8,805
+10,Movie_10,Comedy,Korean,South Korea,2020,6.8,823
+11,Movie_11,Drama,Bangla,USA,2024,6.8,516
+12,Movie_12,Comedy,Korean,India,2024,9.7,130
+13,Movie_13,Horror,Korean,Bangladesh,2020,6.2,510
+14,Movie_14,Sci-Fi,English,USA,2023,8.0,847
+15,Movie_15,Comedy,Hindi,India,2024,7.6,826
+16,Movie_16,Sci-Fi,English,USA,2019,7.5,690
+17,Movie_17,Action,English,India,2025,8.0,707
+18,Movie_18,Sci-Fi,Hindi,South Korea,2025,7.0,482
+19,Movie_19,Comedy,Bangla,USA,2022,5.8,796
+20,Movie_20,Comedy,Bangla,Bangladesh,2021,7.2,518
+21,Movie_21,Action,Bangla,South Korea,2021,7.9,150
+22,Movie_22,Sci-Fi,Hindi,South Korea,2020,8.4,399
+23,Movie_23,Drama,Bangla,USA,2017,6.2,684
+24,Movie_24,Drama,English,South Korea,2024,6.3,298
+25,Movie_25,Action,Bangla,South Korea,2023,7.1,589
+26,Movie_26,Comedy,Bangla,USA,2022,9.4,808
+27,Movie_27,Romance,Korean,South Korea,2021,7.2,503
+28,Movie_28,Romance,Korean,USA,2018,5.8,223
+29,Movie_29,Sci-Fi,Bangla,USA,2020,8.1,114
+30,Movie_30,Action,Bangla,USA,2020,8.1,82
+31,Movie_31,Drama,Korean,Bangladesh,2025,6.6,365
+32,Movie_32,Horror,Hindi,South Korea,2016,6.0,509
+33,Movie_33,Sci-Fi,Korean,South Korea,2019,5.9,114
+34,Movie_34,Romance,Hindi,India,2022,9.1,175
+35,Movie_35,Horror,English,Bangladesh,2023,7.1,716
+36,Movie_36,Horror,English,India,2025,9.2,722
+37,Movie_37,Comedy,Hindi,Bangladesh,2020,8.8,555
+38,Movie_38,Horror,Hindi,Bangladesh,2024,9.0,786
+39,Movie_39,Drama,Bangla,South Korea,2018,6.4,514
+40,Movie_40,Comedy,English,USA,2019,7.5,208
+41,Movie_41,Romance,Hindi,South Korea,2020,9.6,383
+42,Movie_42,Action,Bangla,USA,2018,7.5,355
+43,Movie_43,Drama,Korean,USA,2022,9.4,362
+44,Movie_44,Romance,English,USA,2021,8.9,778
+45,Movie_45,Drama,Korean,Bangladesh,2021,8.9,350
+46,Movie_46,Action,Korean,South Korea,2021,8.7,96
+47,Movie_47,Romance,Bangla,Bangladesh,2017,5.6,614
+48,Movie_48,Sci-Fi,Bangla,South Korea,2025,9.5,169
+49,Movie_49,Horror,Bangla,USA,2015,8.9,753
+50,Movie_50,Romance,English,Bangladesh,2021,9.7,209
+51,Movie_51,Drama,English,India,2018,6.8,256
+52,Movie_52,Horror,Hindi,India,2023,7.3,144
+53,Movie_53,Action,Hindi,South Korea,2025,8.0,539
+54,Movie_54,Sci-Fi,Bangla,Bangladesh,2023,7.7,460
+55,Movie_55,Drama,English,Bangladesh,2017,6.1,643
+56,Movie_56,Romance,English,USA,2020,8.4,553
+57,Movie_57,Horror,Korean,USA,2023,5.7,205
+58,Movie_58,Comedy,English,USA,2023,7.4,38
+59,Movie_59,Action,Korean,India,2024,9.7,630
+60,Movie_60,Horror,Bangla,India,2022,7.7,836
+61,Movie_61,Sci-Fi,Bangla,India,2023,9.3,217
+62,Movie_62,Sci-Fi,Bangla,South Korea,2016,7.2,333
+63,Movie_63,Action,Bangla,South Korea,2016,6.4,320
+64,Movie_64,Action,Bangla,India,2017,6.6,150
+65,Movie_65,Sci-Fi,Bangla,USA,2021,9.3,176
+66,Movie_66,Romance,Bangla,Bangladesh,2021,9.8,423
+67,Movie_67,Comedy,Korean,Bangladesh,2020,6.9,749
+68,Movie_68,Comedy,English,India,2023,7.5,730
+69,Movie_69,Action,Korean,India,2023,8.2,534
+70,Movie_70,Action,English,Bangladesh,2016,5.9,288
+71,Movie_71,Action,Bangla,India,2017,9.0,879
+72,Movie_72,Romance,Hindi,South Korea,2017,7.8,537
+73,Movie_73,Horror,Korean,India,2016,6.7,828
+74,Movie_74,Romance,Bangla,South Korea,2016,6.7,27
+75,Movie_75,Romance,English,India,2016,8.1,237
+76,Movie_76,Action,Hindi,USA,2022,5.5,576
+77,Movie_77,Sci-Fi,Hindi,Bangladesh,2015,7.8,254
+78,Movie_78,Action,Bangla,India,2015,6.3,329
+79,Movie_79,Romance,Hindi,Bangladesh,2019,7.4,698
+80,Movie_80,Drama,Hindi,India,2015,9.8,47
+81,Movie_81,Action,English,Bangladesh,2023,7.5,467
+82,Movie_82,Action,Korean,South Korea,2023,9.1,412
+83,Movie_83,Horror,Hindi,Bangladesh,2018,7.0,862
+84,Movie_84,Romance,Bangla,South Korea,2020,9.7,867
+85,Movie_85,Drama,English,USA,2025,8.7,271
+86,Movie_86,Sci-Fi,Bangla,USA,2016,8.4,400
+87,Movie_87,Horror,Hindi,Bangladesh,2019,5.7,199
+88,Movie_88,Drama,Hindi,South Korea,2015,6.6,346
+89,Movie_89,Horror,Hindi,Bangladesh,2015,9.7,326
+90,Movie_90,Drama,Hindi,Bangladesh,2015,6.9,95
+91,Movie_91,Sci-Fi,Hindi,Bangladesh,2018,7.7,15
+92,Movie_92,Action,Hindi,USA,2017,7.2,52
+93,Movie_93,Sci-Fi,English,India,2019,8.2,96
+94,Movie_94,Horror,Bangla,South Korea,2020,8.6,516
+95,Movie_95,Drama,Hindi,Bangladesh,2015,9.0,742
+96,Movie_96,Horror,Korean,Bangladesh,2023,8.7,592
+97,Movie_97,Action,Bangla,USA,2015,5.7,662
+98,Movie_98,Comedy,English,South Korea,2022,7.9,652
+99,Movie_99,Action,Bangla,South Korea,2019,5.5,826
+100,Movie_100,Action,English,USA,2022,6.6,86
+101,Movie_101,Comedy,Bangla,Bangladesh,2018,8.7,481
+102,Movie_102,Sci-Fi,Korean,USA,2022,9.4,304
+103,Movie_103,Action,Bangla,USA,2024,6.1,270
+104,Movie_104,Romance,Hindi,Bangladesh,2015,7.6,507
+105,Movie_105,Comedy,English,Bangladesh,2025,7.6,735
+106,Movie_106,Horror,Hindi,South Korea,2022,7.5,131
+107,Movie_107,Horror,Bangla,India,2016,9.5,27
+108,Movie_108,Comedy,Korean,USA,2023,9.7,470
+109,Movie_109,Comedy,Korean,Bangladesh,2018,5.8,102
+110,Movie_110,Drama,Hindi,India,2017,8.1,656
+111,Movie_111,Horror,Hindi,USA,2020,6.5,507
+112,Movie_112,Sci-Fi,English,Bangladesh,2015,9.6,707
+113,Movie_113,Sci-Fi,Korean,India,2017,7.3,395
+114,Movie_114,Comedy,English,India,2015,6.9,356
+115,Movie_115,Sci-Fi,English,Bangladesh,2015,9.4,306
+116,Movie_116,Comedy,Hindi,USA,2021,7.2,900
+117,Movie_117,Horror,English,India,2021,8.7,884
+118,Movie_118,Action,Hindi,USA,2015,9.1,302
+119,Movie_119,Romance,Bangla,Bangladesh,2019,7.4,333
+120,Movie_120,Drama,Hindi,South Korea,2015,9.0,656

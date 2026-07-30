@@ -1,0 +1,501 @@
+date,name,breed,color,weight_kg,height_cm
+2019-04-09,Oscar,Chihuahua,Golden,3.64,22
+2018-07-09,Lucy,Chihuahua,White,2.69,24
+2019-04-03,Max,Golden Retriever,Black & White,12.54,64
+2019-04-09,Bella,Chow Chow,White,27.2,54
+2018-03-02,Bella,Labrador,Brown & White,25.33,58
+2018-12-01,Daisy,Husky,Cream,26.91,42
+2019-05-27,Milo,Labrador,Black & White,28.64,62
+2019-07-19,Daisy,Beagle,Cream,30.65,50
+2018-01-31,Leo,Beagle,White,26.02,36
+2018-10-25,Bella,Boxer,Golden,10.14,31
+2018-08-03,Rosie,Labrador,White,27.29,61
+2019-08-03,Buddy,Bulldog,White,32.91,47
+2018-11-15,Luna,German Shepherd,Brown,8.48,56
+2018-09-10,Stella,Beagle,Brown,8.35,59
+2019-11-30,Cooper,Chihuahua,Brown,1.97,23
+2019-03-06,Cooper,Boxer,Black,11.73,56
+2018-10-04,Cooper,Chow Chow,Brown,24.43,45
+2019-02-08,Max,Chow Chow,Brown,27.13,46
+2018-08-07,Buddy,Husky,Cream,16.26,69
+2019-01-31,Daisy,Beagle,Black,10.38,43
+2019-09-08,Rocky,German Shepherd,Brown & White,19.89,59
+2019-08-12,Rocky,Poodle,Cream,35.73,41
+2018-08-22,Lucy,Chow Chow,Golden,24.0,48
+2019-12-05,Charlie,Boxer,Black & White,36.23,68
+2018-02-18,Milo,Beagle,Golden,11.49,62
+2019-12-23,Stella,Boxer,Cream,16.22,68
+2019-06-17,Rocky,Poodle,Golden,37.74,34
+2019-05-06,Charlie,Chihuahua,Cream,3.13,24
+2018-08-06,Milo,Bulldog,Black & White,31.97,34
+2019-04-02,Bailey,Bulldog,Gray,9.93,41
+2019-06-28,Coco,Chow Chow,Brown,29.78,46
+2019-04-07,Rocky,German Shepherd,Black,29.02,63
+2018-01-19,Max,Husky,Black,37.13,49
+2019-09-05,Buddy,Beagle,Brown,23.43,49
+2018-03-16,Max,Beagle,Brown,22.5,53
+2018-12-16,Charlie,German Shepherd,Black & White,10.72,60
+2018-01-31,Leo,Husky,Black & White,26.33,69
+2019-08-20,Charlie,Labrador,White,28.26,56
+2018-09-21,Oscar,Boxer,Brown & White,31.3,54
+2019-04-19,Bella,Chihuahua,Cream,1.71,23
+2019-09-08,Luna,Beagle,Brown & White,23.39,44
+2019-09-22,Coco,Husky,Cream,16.19,30
+2018-05-27,Buddy,Chow Chow,Brown & White,23.62,47
+2019-05-26,Cooper,Bulldog,Black & White,18.46,46
+2018-07-25,Buddy,Bulldog,Golden,20.3,67
+2018-05-20,Charlie,Poodle,Cream,23.89,32
+2018-06-23,Cooper,Beagle,Black & White,22.42,47
+2019-01-27,Oscar,Chihuahua,Gray,2.73,20
+2018-03-18,Milo,Labrador,Gray,25.95,55
+2018-11-13,Leo,Chow Chow,Brown & White,22.15,47
+2018-07-14,Daisy,Labrador,Brown,29.38,59
+2018-02-18,Coco,Beagle,White,22.29,70
+2019-12-02,Milo,Bulldog,Brown,14.38,60
+2018-01-12,Lucy,Husky,Golden,25.12,32
+2018-10-06,Lucy,German Shepherd,Black & White,25.27,63
+2019-12-18,Rocky,Bulldog,Brown & White,10.79,54
+2019-04-10,Leo,Bulldog,Gray,28.02,30
+2019-04-20,Luna,German Shepherd,White,28.84,43
+2018-08-07,Bailey,Bulldog,Gray,36.8,35
+2018-09-26,Max,Labrador,Brown & White,26.44,56
+2018-12-17,Stella,Chihuahua,Black,2.55,19
+2018-08-12,Lucy,Beagle,Gray,21.73,32
+2019-12-05,Oscar,Poodle,Brown & White,23.06,63
+2019-08-16,Bailey,Beagle,Brown,32.25,58
+2019-06-20,Milo,Chihuahua,Cream,3.61,23
+2019-11-19,Cooper,Boxer,Cream,38.55,69
+2018-05-25,Stella,Chihuahua,Golden,2.81,24
+2019-02-25,Leo,Chihuahua,Black,1.79,15
+2019-07-06,Luna,Labrador,Brown & White,27.61,61
+2018-04-06,Oscar,Poodle,Black & White,10.11,64
+2019-02-18,Rocky,Golden Retriever,Gray,15.88,61
+2019-03-21,Cooper,Husky,Black & White,24.8,36
+2019-09-25,Bella,Labrador,Black,30.48,57
+2018-07-18,Buddy,Poodle,Gray,15.27,48
+2018-09-08,Luna,Chow Chow,Cream,25.99,52
+2018-07-22,Leo,Chihuahua,Black & White,3.7,15
+2019-06-27,Cooper,Chow Chow,Golden,23.28,48
+2019-07-10,Daisy,Chow Chow,Gray,26.69,47
+2018-07-05,Cooper,German Shepherd,Golden,27.3,42
+2018-04-10,Charlie,Poodle,Cream,36.45,38
+2019-02-02,Rocky,Beagle,Golden,21.91,56
+2019-02-17,Coco,Labrador,White,24.67,60
+2019-12-23,Cooper,Chihuahua,White,3.09,20
+2019-05-09,Stella,Beagle,Brown,8.78,65
+2018-07-14,Lucy,Poodle,Cream,11.68,41
+2019-11-21,Oscar,Beagle,White,26.55,38
+2018-04-10,Coco,German Shepherd,Black & White,20.51,57
+2018-08-04,Max,Chow Chow,Golden,24.99,55
+2018-07-05,Leo,Boxer,Golden,22.53,53
+2019-09-12,Buddy,Poodle,White,11.03,30
+2019-12-23,Buddy,Boxer,Cream,26.23,42
+2018-10-14,Leo,Beagle,Brown,31.82,40
+2018-12-04,Lucy,Chihuahua,Black & White,3.24,21
+2018-07-31,Bailey,Poodle,Brown & White,10.26,51
+2018-04-14,Daisy,Labrador,Cream,30.22,55
+2019-11-14,Lucy,Golden Retriever,White,18.81,55
+2019-02-03,Cooper,Chihuahua,White,4.0,25
+2019-02-09,Luna,Chow Chow,Golden,22.18,54
+2018-09-20,Cooper,Husky,Black & White,20.85,33
+2018-01-12,Buddy,Beagle,Black & White,16.27,47
+2019-06-18,Oscar,Chow Chow,White,28.77,46
+2019-07-17,Leo,Chow Chow,Brown,27.35,45
+2019-01-31,Max,Husky,Black & White,39.04,61
+2019-05-22,Bailey,Boxer,Gray,17.1,55
+2019-06-28,Bailey,Golden Retriever,Cream,23.46,47
+2018-01-28,Lucy,Labrador,Black & White,29.41,55
+2019-12-02,Leo,Boxer,Black,9.69,50
+2019-08-19,Rosie,German Shepherd,Brown & White,10.35,44
+2018-09-14,Oscar,Bulldog,Brown,9.45,36
+2018-09-09,Rosie,Chow Chow,Brown & White,27.65,45
+2018-05-01,Rocky,Bulldog,White,35.56,52
+2019-01-08,Oscar,Husky,Cream,12.47,56
+2019-10-17,Rocky,Chow Chow,Cream,27.46,50
+2018-05-12,Bailey,Bulldog,Gray,23.4,62
+2018-10-09,Cooper,Golden Retriever,Cream,27.51,66
+2018-09-03,Cooper,Bulldog,Black,38.46,62
+2019-10-06,Rosie,Labrador,Black,24.07,59
+2019-10-01,Charlie,Labrador,White,24.72,59
+2019-11-24,Coco,Poodle,Brown & White,25.62,70
+2019-05-06,Stella,German Shepherd,Brown,14.74,51
+2018-03-18,Cooper,Beagle,Brown & White,22.31,69
+2019-03-11,Coco,Golden Retriever,Brown,20.48,39
+2019-11-01,Lucy,Chow Chow,Black & White,24.6,53
+2019-11-01,Buddy,German Shepherd,White,26.58,59
+2019-07-11,Stella,Beagle,Brown & White,21.82,66
+2018-11-03,Charlie,Labrador,Cream,24.53,58
+2019-05-22,Daisy,German Shepherd,Gray,17.05,39
+2019-11-05,Buddy,German Shepherd,Brown & White,19.72,37
+2019-08-06,Milo,Chow Chow,Brown & White,29.35,55
+2019-06-27,Leo,Golden Retriever,Golden,22.66,44
+2018-03-28,Coco,German Shepherd,Black & White,34.51,31
+2019-08-22,Coco,Boxer,Black & White,33.48,66
+2019-07-08,Lucy,Poodle,Brown,34.76,66
+2018-04-02,Bella,Husky,Golden,36.19,48
+2019-06-13,Bella,Labrador,Black & White,27.81,59
+2018-03-07,Charlie,Chow Chow,Gray,26.37,53
+2018-03-25,Charlie,Golden Retriever,Black,31.59,50
+2019-10-12,Daisy,Poodle,Golden,11.12,57
+2019-05-16,Leo,Chihuahua,Gray,2.35,22
+2018-12-12,Stella,German Shepherd,White,29.52,61
+2019-12-27,Coco,Chow Chow,Black,29.32,51
+2019-01-23,Bella,Beagle,Gray,36.44,64
+2019-12-29,Rosie,Labrador,Brown,29.62,61
+2018-09-09,Lucy,Poodle,Gray,39.71,54
+2018-07-29,Milo,Boxer,Black,21.6,48
+2019-04-28,Rocky,Golden Retriever,Brown,31.38,49
+2018-03-05,Max,Husky,Gray,8.55,60
+2018-04-22,Daisy,Bulldog,Brown & White,13.91,43
+2019-09-02,Milo,Chihuahua,Black & White,2.06,17
+2018-06-26,Stella,Golden Retriever,Cream,28.06,65
+2019-05-12,Charlie,Boxer,Brown & White,37.26,51
+2018-08-15,Leo,Boxer,Cream,9.59,38
+2018-03-01,Coco,Bulldog,Brown & White,36.55,60
+2018-09-10,Rosie,Boxer,Brown,27.39,40
+2018-11-26,Rocky,Poodle,Cream,16.3,63
+2019-06-13,Lucy,Chihuahua,Black,1.63,24
+2018-07-29,Coco,Poodle,Cream,34.31,35
+2019-09-22,Oscar,Chihuahua,White,1.74,22
+2019-08-24,Bella,Chihuahua,Golden,3.64,19
+2019-03-03,Oscar,Bulldog,Golden,37.34,35
+2018-02-08,Lucy,Chihuahua,Cream,2.53,22
+2018-11-20,Bailey,Golden Retriever,Brown & White,20.97,65
+2019-11-15,Luna,Beagle,Black & White,19.51,38
+2019-11-24,Oscar,Husky,Black,31.89,37
+2019-01-22,Luna,Husky,Brown & White,15.6,66
+2018-01-11,Bailey,Bulldog,Black & White,36.85,39
+2019-07-07,Charlie,Golden Retriever,Cream,38.53,55
+2018-07-13,Buddy,Bulldog,Cream,20.05,37
+2018-10-08,Buddy,Chow Chow,Brown & White,25.76,55
+2019-01-27,Luna,Beagle,Brown,11.26,69
+2019-11-25,Max,Poodle,Brown & White,13.76,55
+2019-08-30,Lucy,Beagle,White,11.21,32
+2019-03-21,Rosie,Boxer,Brown,32.68,51
+2019-10-25,Stella,Bulldog,Gray,32.54,54
+2019-02-27,Buddy,Chow Chow,Golden,22.12,51
+2019-11-08,Buddy,Chow Chow,Golden,26.24,49
+2018-12-17,Leo,Golden Retriever,Golden,28.82,36
+2019-06-06,Lucy,German Shepherd,Cream,33.23,36
+2019-07-06,Rocky,Golden Retriever,Golden,25.54,52
+2019-06-13,Cooper,Bulldog,White,26.16,31
+2018-05-20,Buddy,Bulldog,Gray,23.29,56
+2018-04-04,Oscar,German Shepherd,Brown,16.52,37
+2018-09-02,Charlie,Chow Chow,Cream,26.35,53
+2018-06-22,Bella,German Shepherd,Cream,27.25,37
+2019-12-03,Coco,German Shepherd,Brown,15.71,66
+2018-07-10,Oscar,Chow Chow,Black,26.38,46
+2019-02-18,Bailey,Poodle,Black & White,33.05,38
+2019-09-22,Lucy,Chow Chow,Golden,27.12,45
+2019-02-26,Leo,Husky,White,9.06,63
+2019-08-07,Rocky,Boxer,Cream,13.56,63
+2018-09-07,Max,Chow Chow,Brown,29.45,45
+2019-02-17,Coco,Husky,Black & White,27.2,60
+2019-10-01,Stella,Chow Chow,Brown & White,28.06,49
+2019-12-08,Luna,Boxer,Gray,34.4,37
+2019-06-22,Buddy,Chihuahua,Black,2.58,15
+2018-10-31,Leo,Chow Chow,Gray,29.2,56
+2018-11-09,Luna,Chow Chow,Brown & White,29.02,48
+2018-09-06,Stella,Chihuahua,White,3.68,15
+2019-06-23,Daisy,Bulldog,White,25.44,55
+2019-11-13,Lucy,German Shepherd,Golden,35.73,56
+2019-10-28,Luna,Boxer,Brown,26.14,34
+2018-05-07,Bella,Chihuahua,Cream,2.94,22
+2018-09-07,Charlie,Golden Retriever,Brown & White,8.77,41
+2019-04-06,Daisy,Chihuahua,Black,2.49,20
+2018-11-10,Bailey,Labrador,Gray,27.18,60
+2019-05-26,Cooper,Poodle,Golden,37.89,60
+2018-10-30,Stella,Labrador,Black,25.37,60
+2018-06-26,Daisy,Chihuahua,Golden,2.01,25
+2018-02-21,Milo,Beagle,Black & White,17.79,50
+2020-01-01,Rosie,Poodle,White,18.72,58
+2018-06-23,Cooper,Bulldog,Cream,35.57,37
+2018-07-05,Milo,Bulldog,Gray,24.05,48
+2019-11-09,Daisy,Chihuahua,Cream,3.71,24
+2018-07-04,Charlie,Bulldog,Brown & White,16.86,70
+2018-03-20,Max,Husky,Black,37.35,34
+2019-09-07,Rosie,Chow Chow,White,24.28,49
+2018-06-18,Daisy,Golden Retriever,Brown,39.63,42
+2018-10-13,Max,Chihuahua,Brown & White,1.57,17
+2019-08-22,Max,Boxer,Brown,8.09,61
+2018-03-07,Buddy,Chihuahua,Brown & White,3.44,20
+2018-02-02,Lucy,Chihuahua,Brown,2.23,25
+2018-04-25,Oscar,Chow Chow,Cream,25.48,55
+2018-08-30,Stella,Golden Retriever,Cream,23.65,44
+2018-02-06,Oscar,Bulldog,Brown,27.1,33
+2018-11-29,Stella,Poodle,Black & White,27.47,68
+2019-05-31,Charlie,Husky,White,31.14,31
+2018-07-02,Daisy,Chow Chow,Brown,27.12,54
+2018-02-25,Milo,Golden Retriever,Brown & White,21.61,50
+2018-04-01,Daisy,Chihuahua,Brown,1.93,19
+2019-05-24,Buddy,Chow Chow,Black & White,28.29,45
+2019-04-24,Rocky,German Shepherd,Brown & White,30.36,32
+2019-09-08,Max,Poodle,Black,12.63,59
+2018-09-04,Charlie,Boxer,Black & White,36.48,39
+2019-07-24,Max,Golden Retriever,Golden,23.1,34
+2018-10-30,Rosie,Golden Retriever,Brown & White,11.8,45
+2018-03-30,Cooper,Bulldog,Black,19.65,51
+2018-06-14,Buddy,Boxer,Brown,26.73,33
+2019-04-19,Leo,Boxer,Black & White,37.93,43
+2018-02-20,Lucy,Bulldog,Brown,21.39,45
+2019-05-07,Oscar,Bulldog,Cream,20.81,68
+2019-04-29,Lucy,Husky,Brown & White,23.69,70
+2018-07-29,Max,Chihuahua,Cream,2.46,16
+2019-01-07,Lucy,Golden Retriever,Cream,27.87,63
+2019-06-09,Milo,Boxer,White,26.16,43
+2019-01-05,Rocky,Labrador,Golden,25.07,60
+2018-05-03,Oscar,Labrador,White,30.99,61
+2019-01-26,Max,German Shepherd,Cream,16.2,63
+2019-02-08,Cooper,Chow Chow,Brown,23.91,45
+2019-06-11,Bailey,Chow Chow,Black & White,23.02,48
+2019-03-11,Milo,Husky,Gray,25.41,38
+2019-04-08,Milo,Boxer,Brown & White,12.71,43
+2019-02-20,Daisy,Poodle,White,20.37,52
+2018-10-27,Rocky,German Shepherd,Black,19.04,43
+2018-01-26,Charlie,Husky,Golden,26.11,49
+2019-07-26,Daisy,German Shepherd,Cream,29.33,53
+2018-04-03,Max,Boxer,Brown & White,11.83,61
+2019-01-28,Daisy,German Shepherd,Brown,17.11,47
+2019-02-17,Coco,Bulldog,Golden,23.21,40
+2019-06-17,Rocky,Beagle,Brown & White,31.77,57
+2019-08-20,Bailey,Golden Retriever,Black,30.44,65
+2019-02-05,Leo,Beagle,Cream,19.66,34
+2018-02-25,Bailey,Boxer,Brown & White,23.86,67
+2018-11-30,Coco,Golden Retriever,Gray,10.31,32
+2019-01-18,Lucy,Chow Chow,Brown & White,24.38,55
+2019-01-29,Bella,Chow Chow,Golden,24.73,50
+2018-03-19,Rosie,Labrador,White,28.35,61
+2018-10-10,Leo,Beagle,Black & White,34.55,58
+2018-02-09,Bailey,Poodle,Brown & White,29.87,47
+2019-01-05,Cooper,Husky,Cream,39.26,39
+2018-08-22,Bella,Golden Retriever,Black & White,29.77,45
+2018-01-04,Charlie,Bulldog,Gray,25.5,65
+2018-09-28,Buddy,German Shepherd,Golden,11.32,31
+2019-12-14,Lucy,Boxer,Brown,29.97,42
+2018-12-08,Bailey,Chow Chow,Gray,27.51,54
+2019-03-01,Stella,Golden Retriever,Golden,19.74,64
+2019-10-24,Rocky,Bulldog,White,19.59,41
+2018-03-12,Luna,Beagle,Brown & White,36.34,49
+2019-06-09,Rosie,Husky,Brown & White,9.29,69
+2018-02-24,Leo,German Shepherd,Cream,16.12,62
+2019-10-13,Lucy,Golden Retriever,Gray,19.77,50
+2018-07-29,Rosie,Chow Chow,Brown,28.63,54
+2019-09-30,Cooper,Golden Retriever,Black & White,33.64,38
+2019-09-29,Bella,Golden Retriever,Brown & White,15.39,41
+2019-08-23,Rosie,Poodle,Cream,16.58,47
+2019-10-09,Max,Boxer,Brown,20.37,38
+2020-01-01,Bailey,Beagle,Gray,35.87,42
+2019-07-06,Stella,Beagle,Brown,20.95,31
+2019-01-18,Daisy,Beagle,Black & White,17.89,48
+2019-09-25,Leo,Boxer,Golden,32.49,66
+2019-07-14,Oscar,Golden Retriever,Brown,33.61,39
+2018-04-20,Stella,Chihuahua,Black & White,3.83,19
+2018-05-04,Milo,Poodle,Brown,18.36,31
+2018-10-08,Charlie,Boxer,Brown & White,16.77,44
+2018-07-25,Max,German Shepherd,Brown,25.65,65
+2018-03-07,Charlie,Labrador,Black,30.25,59
+2018-07-06,Rosie,German Shepherd,Brown & White,23.47,42
+2018-02-02,Leo,Boxer,Black,19.24,65
+2018-08-09,Milo,Chihuahua,Cream,3.04,24
+2018-07-13,Max,Golden Retriever,Brown,35.67,58
+2018-01-28,Milo,Poodle,Gray,25.25,34
+2018-01-25,Oscar,Chihuahua,Black,2.28,23
+2018-08-04,Milo,Beagle,Golden,38.7,30
+2019-05-22,Luna,Boxer,Brown & White,17.85,64
+2019-02-16,Bella,Boxer,Black,16.02,69
+2019-08-14,Coco,Poodle,Cream,15.27,54
+2019-01-09,Charlie,Husky,Gray,19.33,47
+2019-09-01,Lucy,Beagle,Golden,16.47,43
+2018-02-18,Lucy,Poodle,Gray,25.48,43
+2018-04-19,Lucy,Poodle,Black & White,12.57,52
+2018-01-23,Leo,Labrador,White,26.8,55
+2018-11-26,Bella,Chihuahua,Brown,3.6,18
+2018-11-25,Buddy,Beagle,Black & White,32.13,36
+2019-04-30,Milo,Bulldog,White,23.98,41
+2019-11-25,Lucy,Boxer,Gray,38.33,50
+2019-06-22,Max,Labrador,Golden,25.04,61
+2019-09-24,Rosie,Chow Chow,White,24.76,52
+2018-05-05,Rosie,Husky,Black & White,21.96,59
+2019-05-29,Max,Bulldog,Black,20.01,64
+2019-06-25,Max,Husky,Black,22.3,67
+2018-11-29,Milo,Poodle,Gray,25.18,51
+2018-07-12,Max,Husky,Brown,39.66,55
+2019-05-18,Luna,Beagle,White,15.49,39
+2019-06-08,Lucy,Golden Retriever,Black,39.8,34
+2019-12-30,Oscar,German Shepherd,Golden,16.02,52
+2019-07-04,Stella,Labrador,Cream,30.06,58
+2019-10-22,Oscar,Bulldog,Brown & White,10.35,65
+2018-09-05,Charlie,Beagle,Brown,33.6,33
+2019-01-10,Coco,Poodle,Golden,11.21,32
+2018-10-23,Leo,Beagle,Black,21.31,69
+2019-11-30,Charlie,Chow Chow,White,25.73,52
+2019-10-27,Cooper,Bulldog,Black & White,25.03,50
+2019-01-23,Milo,Labrador,Golden,29.72,60
+2019-12-13,Lucy,Bulldog,Brown & White,13.78,38
+2018-02-12,Coco,Poodle,Gray,16.9,46
+2018-11-11,Cooper,Bulldog,Gray,8.26,34
+2018-11-14,Milo,Boxer,Black & White,14.41,34
+2019-01-19,Rocky,Chow Chow,White,25.27,52
+2018-04-08,Daisy,German Shepherd,Brown & White,24.44,56
+2019-08-17,Charlie,Beagle,Brown & White,17.12,48
+2018-08-20,Daisy,Husky,Brown & White,20.4,56
+2019-10-18,Bailey,Beagle,Brown & White,19.75,51
+2019-11-06,Daisy,Golden Retriever,Black,17.37,30
+2019-02-26,Leo,German Shepherd,Black & White,12.23,46
+2018-10-13,Luna,German Shepherd,White,11.27,67
+2019-04-10,Bella,Bulldog,Gray,10.83,53
+2018-01-31,Bella,Chow Chow,Brown,27.35,50
+2019-04-26,Buddy,Beagle,Brown & White,19.58,59
+2019-11-18,Bella,Chow Chow,Black & White,22.49,48
+2019-03-20,Max,Bulldog,White,28.8,37
+2019-04-19,Cooper,Boxer,Brown & White,33.29,43
+2019-01-14,Charlie,Poodle,Black,24.5,36
+2018-06-20,Stella,Chow Chow,White,28.29,49
+2019-03-20,Coco,Husky,Black,12.99,53
+2018-04-22,Luna,German Shepherd,White,21.21,65
+2018-11-05,Daisy,Chihuahua,Brown,2.91,16
+2019-11-10,Bailey,Beagle,Gray,24.31,49
+2018-09-09,Max,Bulldog,Golden,26.91,59
+2019-08-27,Oscar,Husky,Brown,13.45,36
+2018-04-17,Lucy,Chihuahua,Black & White,1.89,24
+2019-09-25,Luna,Chow Chow,Black & White,29.71,56
+2018-01-11,Leo,Bulldog,Brown,12.92,37
+2018-10-29,Luna,Chihuahua,Brown & White,3.05,21
+2018-11-04,Leo,Chihuahua,Black & White,3.11,15
+2018-11-03,Luna,Beagle,Black & White,14.87,64
+2018-12-03,Rocky,Husky,White,14.52,65
+2019-02-08,Milo,Golden Retriever,Golden,16.56,68
+2019-01-12,Leo,Beagle,Gray,21.74,60
+2019-10-27,Max,Boxer,Cream,18.68,37
+2019-06-28,Buddy,Labrador,Black & White,25.14,61
+2018-08-17,Buddy,Beagle,Gray,30.82,32
+2019-05-11,Stella,Bulldog,Black,24.64,63
+2019-01-18,Bella,Boxer,Gray,26.99,36
+2018-09-10,Bailey,German Shepherd,Golden,38.83,53
+2019-09-16,Stella,Chow Chow,White,22.45,47
+2019-06-13,Cooper,German Shepherd,Cream,9.7,35
+2019-08-27,Coco,Golden Retriever,Black & White,33.85,57
+2018-04-02,Charlie,Golden Retriever,Black & White,26.31,36
+2018-08-19,Rocky,Golden Retriever,Brown,18.5,50
+2018-10-20,Max,Golden Retriever,Black & White,9.82,61
+2019-10-02,Bella,Beagle,Golden,25.67,51
+2019-08-17,Rosie,Chihuahua,Gray,1.51,22
+2019-11-27,Oscar,Beagle,Brown,13.52,35
+2019-01-22,Oscar,Husky,Gray,29.67,37
+2018-03-15,Luna,Beagle,White,38.61,52
+2019-02-11,Luna,Golden Retriever,Golden,30.11,65
+2018-04-10,Luna,Boxer,Brown,18.37,38
+2018-10-08,Leo,Husky,Golden,21.04,57
+2019-11-22,Stella,Husky,White,23.8,54
+2019-07-17,Cooper,Poodle,Black,32.73,50
+2018-12-21,Leo,Poodle,Brown & White,28.84,54
+2019-08-12,Rocky,Chow Chow,Brown & White,28.74,50
+2019-12-22,Daisy,Boxer,Cream,18.5,61
+2018-12-26,Charlie,Boxer,Cream,26.4,46
+2019-01-22,Charlie,Bulldog,Brown,30.93,57
+2019-02-28,Luna,Chihuahua,Golden,2.64,22
+2018-07-10,Rocky,Chow Chow,Black,22.82,49
+2019-12-17,Stella,German Shepherd,Gray,26.18,65
+2019-05-17,Bailey,Poodle,White,22.29,52
+2018-09-10,Coco,Poodle,White,14.99,42
+2018-06-17,Buddy,Bulldog,Gray,26.64,53
+2018-04-22,Luna,Golden Retriever,Golden,27.46,46
+2019-01-02,Bailey,Labrador,Cream,25.21,59
+2018-09-16,Charlie,Chihuahua,Cream,1.83,22
+2018-01-30,Rocky,Golden Retriever,Black & White,33.4,62
+2018-06-13,Charlie,Chihuahua,Brown,3.64,24
+2019-07-02,Bailey,Chow Chow,Black,28.2,49
+2019-03-14,Daisy,German Shepherd,Brown & White,28.86,64
+2019-04-09,Milo,German Shepherd,Gray,19.06,43
+2018-08-26,Charlie,Beagle,Cream,38.4,37
+2018-01-03,Cooper,Beagle,Gray,37.87,37
+2018-11-13,Charlie,German Shepherd,Brown,35.91,33
+2018-01-31,Charlie,Boxer,Black & White,26.27,63
+2019-06-24,Stella,Poodle,Golden,10.75,52
+2019-12-23,Cooper,Beagle,White,21.35,61
+2019-12-12,Charlie,Husky,Brown,8.95,65
+2018-11-04,Rocky,Golden Retriever,Brown,18.74,47
+2019-03-14,Lucy,Labrador,White,28.26,60
+2019-06-16,Luna,Poodle,White,38.7,32
+2018-11-02,Rosie,Golden Retriever,Black,38.63,31
+2018-06-02,Charlie,Poodle,Black,30.03,63
+2019-01-16,Leo,Beagle,Golden,38.66,43
+2019-02-22,Leo,German Shepherd,Black,18.74,52
+2018-09-05,Buddy,Golden Retriever,Gray,9.53,53
+2019-04-11,Lucy,Bulldog,Golden,37.79,56
+2018-06-03,Daisy,Bulldog,Gray,16.11,60
+2018-07-09,Milo,Bulldog,Cream,29.7,69
+2019-08-11,Charlie,Labrador,Cream,25.29,58
+2019-06-06,Max,German Shepherd,Golden,31.66,43
+2019-07-08,Daisy,Beagle,Brown & White,10.51,62
+2018-08-12,Coco,Labrador,Gray,26.9,57
+2018-03-13,Rocky,Beagle,Black & White,39.69,54
+2019-11-18,Leo,Bulldog,Cream,18.82,43
+2019-07-30,Stella,Chow Chow,Black,29.55,46
+2018-02-23,Rosie,Husky,Brown,9.05,34
+2018-05-27,Daisy,Beagle,Gray,14.58,61
+2018-12-17,Buddy,Poodle,Black,37.78,39
+2018-07-17,Oscar,Bulldog,Gray,12.34,45
+2019-01-17,Charlie,Beagle,Brown,37.56,39
+2018-12-22,Lucy,Labrador,White,24.86,60
+2018-10-08,Oscar,Chihuahua,Cream,2.8,24
+2018-04-05,Charlie,Beagle,Cream,28.91,31
+2019-11-25,Luna,Chihuahua,Cream,1.96,20
+2019-05-11,Stella,Chow Chow,Brown & White,25.68,54
+2018-02-09,Bella,Bulldog,Brown & White,12.72,60
+2019-08-22,Lucy,Boxer,Black,25.39,48
+2018-06-27,Bella,Boxer,Black,31.56,43
+2018-08-14,Charlie,Boxer,Brown & White,33.57,61
+2018-01-26,Bailey,Poodle,Black,18.94,40
+2018-12-11,Coco,Golden Retriever,Brown & White,35.13,65
+2018-09-14,Coco,Chow Chow,Brown,27.94,47
+2019-08-17,Oscar,Chow Chow,Cream,26.9,51
+2018-12-07,Lucy,Husky,Brown & White,15.47,69
+2019-06-06,Lucy,Chihuahua,Gray,3.96,19
+2018-08-29,Buddy,Chihuahua,Cream,2.96,17
+2019-10-17,Coco,Beagle,Brown & White,28.28,30
+2019-07-27,Leo,Beagle,Black,23.91,62
+2019-11-10,Oscar,Husky,Black,20.83,61
+2018-04-03,Max,German Shepherd,Brown,23.92,60
+2018-01-28,Charlie,Golden Retriever,Cream,25.23,33
+2018-02-21,Max,Bulldog,Cream,26.66,55
+2018-07-19,Max,Chihuahua,White,1.76,20
+2019-05-17,Buddy,Husky,Golden,12.85,50
+2019-10-25,Bailey,Bulldog,Brown,30.07,58
+2019-12-03,Bailey,Bulldog,Brown,33.52,47
+2018-05-01,Max,Husky,Black,17.71,45
+2019-06-09,Leo,German Shepherd,White,23.07,69
+2019-11-15,Leo,Poodle,Cream,11.5,48
+2018-09-18,Rocky,Poodle,Black,27.53,46
+2019-03-23,Milo,Boxer,Brown & White,32.6,30
+2019-10-17,Max,Husky,Black,15.2,52
+2018-06-14,Daisy,Husky,White,33.46,44
+2019-12-13,Oscar,Poodle,Cream,24.51,50
+2019-12-09,Luna,Poodle,Gray,8.86,47
+2018-12-03,Bailey,Labrador,Brown & White,30.38,59
+2018-02-28,Stella,German Shepherd,White,11.49,43
+2018-02-06,Max,Beagle,Brown & White,35.6,64
+2019-06-23,Coco,Bulldog,Golden,17.23,67
+2019-03-21,Max,German Shepherd,Gray,20.75,51
+2018-10-30,Rosie,Chihuahua,Golden,3.65,25
+2019-02-21,Luna,Bulldog,Black & White,33.27,35
+2019-03-20,Milo,Husky,Black & White,29.94,70
+2018-01-13,Max,Chihuahua,Brown,1.72,17
+2018-07-08,Buddy,Chihuahua,Cream,3.92,24
+2019-10-26,Max,Labrador,Black & White,28.94,62
+2018-04-20,Max,Husky,White,14.2,46
+2018-01-03,Oscar,Golden Retriever,Brown,22.87,69
+2019-03-12,Leo,Husky,Golden,26.34,45
+2019-11-29,Rocky,Chow Chow,Golden,25.27,46
+2018-02-26,Leo,Chow Chow,White,25.79,45
+2019-02-05,Daisy,Husky,Brown & White,27.81,43
+2019-08-25,Luna,German Shepherd,Gray,37.64,70
+2018-11-08,Leo,Labrador,Golden,25.55,61
+2018-09-21,Oscar,Labrador,Golden,29.54,59
+2019-01-10,Buddy,Boxer,Golden,14.55,57
+2019-10-01,Charlie,Labrador,Brown & White,26.88,59
+2019-04-30,Leo,Chihuahua,White,2.64,21
+2018-08-21,Oscar,Golden Retriever,Black & White,15.32,68
+2018-08-06,Buddy,Golden Retriever,Black & White,15.23,35
+2018-01-18,Milo,Boxer,White,19.02,57
+2019-09-21,Bailey,Boxer,Golden,15.07,55
